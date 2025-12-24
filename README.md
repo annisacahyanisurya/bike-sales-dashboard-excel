@@ -6,7 +6,7 @@ Data yang digunakan dalam dashboard ini dapat dilihat dan diunduh melalui sumber
 
 ## Dashboard
 <div align="center">
-  <img scr="BikeSalesDashboard.PNG" alt="Bike Sales Dashboard" width=400>
+  <img src="BikeSalesDashboard.PNG" alt="Bike Sales Dashboard" width=800>
 </div>
 
 ## 🟩 Key KPIs :
